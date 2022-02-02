@@ -1,2 +1,2 @@
-# Repositoirio de ejemplo para git
+# Repositorio de ejemplo para git
 
