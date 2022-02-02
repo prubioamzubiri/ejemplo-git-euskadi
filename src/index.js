@@ -1,3 +1,3 @@
-function hoaMundo () {
+function holaMundo () {
     console.log("Hola Mundo");
 };
