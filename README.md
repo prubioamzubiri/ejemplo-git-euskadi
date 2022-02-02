@@ -2,3 +2,6 @@
 
 # Instalación de paquetes
 $ npm install 
+
+# Ejecución 
+$ npm run 
