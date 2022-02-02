@@ -5,3 +5,5 @@ $ npm install
 
 # Ejecución 
 $ npm run 
+
+$ print hello
